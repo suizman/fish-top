@@ -13,7 +13,7 @@
 ## Install
 
 ```fish
-$ omf install suizman/fish-top
+$ omf install https://github.com/suizman/fish-top
 # or 
 $ omf install fish-top
 ```
